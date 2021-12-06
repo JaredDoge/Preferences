@@ -1,0 +1,3 @@
+include ':preferences'
+include ':app'
+rootProject.name = "Preferences"
